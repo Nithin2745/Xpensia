@@ -19,7 +19,6 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar:AppBar(),
       bottomNavigationBar: Padding(
         padding: const EdgeInsets.only(left: 10,right: 10,bottom: 20),
         child: ClipRRect(

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xpensia-dev-b2411-authRole",
+      "UnauthRoleArn": "arn:aws:iam::615402060032:role/amplify-xpensia-dev-b2411-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::615402060032:role/amplify-xpensia-dev-b2411-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-xpensia-dev-b2411-deployment",
+      "UnauthRoleName": "amplify-xpensia-dev-b2411-unauthRole",
+      "StackName": "amplify-xpensia-dev-b2411",
+      "StackId": "arn:aws:cloudformation:us-east-1:615402060032:stack/amplify-xpensia-dev-b2411/f6f6dd80-6971-11f0-8d90-1250f9808c17",
+      "AmplifyAppId": "d17xwpwvfc9fn9"
+    },
+    "categories": {
+      "auth": {
+        "xpensia65d0c394": {}
+      }
+    }
+  }
+}
